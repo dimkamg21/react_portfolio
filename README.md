@@ -1,6 +1,5 @@
-# Phone Shop Project
+# Portfolio Project
 
-An app using React.js, that stores, lists and presents products from api.
 
 ## Links:
 
