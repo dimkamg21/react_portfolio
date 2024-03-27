@@ -3,7 +3,7 @@
 
 ## Links:
 
-- [DEMO](https://dimkamg21.github.io/react_phone-shop/)
+- [DEMO](https://dimkamg21.github.io/react_portfolio/)
 
 ## Technologies
 

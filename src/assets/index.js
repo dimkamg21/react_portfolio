@@ -25,7 +25,7 @@ import nothind_landing from "./nothing_landing.jpg";
 import phone_catalog from  "./phone_catalog.jpg";
 import game2048 from "./game2048.jpg";
 
-import linkedIn from "./linkedIn.png";
+import linkedIn from "./linkedin.png";
 
 export {
   logo,
